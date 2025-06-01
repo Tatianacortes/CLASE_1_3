@@ -45,18 +45,29 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 ![Figura de prueba](IMAGES/IMA15.png)
 4. Cambiar los parametros para realizar la conexión. 
 ![Figura de prueba](IMAGES/IMA16.png)
-5. Observar la banda led superior del cubo en color verde idicando la conexión exitosa. 
+5. Observar la banda led superior del cubo en color verde indicando la conexión exitosa. 
 ![Figura de prueba](IMAGES/IMA18.png)
+6. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Time bases', seleccionar 'HIL Read Encoder Timebase'
 ![Figura de prueba](IMAGES/IMA19.png)
-![Figura de prueba](IMAGES/IMA20.png)
+7. Configurar los parametros de la pestaña 'main' seleccionando 'Active during normal simulation'
 ![Figura de prueba](IMAGES/IMA21.png)
+8. Configurar los parametros de la pestaña 'main' seleccionando 'Synchronize'
 ![Figura de prueba](IMAGES/IMA22.png)
+9. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Inmediate I/O' seleccionar 'HIL Write Analog'
+![Figura de prueba](IMAGES/IMA20.png)
+10. Seleccionar 'Active during normal simulation'
 ![Figura de prueba](IMAGES/IMA23.png)
+11. Agregar una constante a la entrada del HIL Write Analog
 ![Figura de prueba](IMAGES/IMA24.png)
+12. Configurar el solver para no tener problemas con la simulación. 
 ![Figura de prueba](IMAGES/IMA27.png)
+13. Observar el movimiento del QUBE con la configuraciòn dada previamente. 
 ![Figura de prueba](IMAGES/GIF1.gif)
+14. Observar los datos en en el display.
+15. ![Figura de prueba](IMAGES/IMA29.png)
+16. Modificar el valor de la constante
 ![Figura de prueba](IMAGES/IMA28.png)
-![Figura de prueba](IMAGES/IMA29.png)
+
 ![Figura de prueba](IMAGES/IMA30.png)
 ![Figura de prueba](IMAGES/IMA31.png)
 ![Figura de prueba](IMAGES/IMA32.png)
