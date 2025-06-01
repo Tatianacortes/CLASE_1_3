@@ -49,7 +49,7 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 ![Figura de prueba](IMAGES/IMA18.png)
 6. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Time bases', seleccionar 'HIL Read Encoder Timebase'
 ![Figura de prueba](IMAGES/IMA19.png)
-7. Configurar los parametros de la pestaña 'main' seleccionando 'Active during normal simulation'
+7. Configurar los parametros de la pestaña 'main' seleccionando 'Active during normal simulation'  
 ![Figura de prueba](IMAGES/IMA21.png)
 8. Configurar los parametros de la pestaña 'main' seleccionando 'Synchronize'
 ![Figura de prueba](IMAGES/IMA22.png)
