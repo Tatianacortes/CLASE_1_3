@@ -64,10 +64,10 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 13. Observar el movimiento del QUBE con la configuraciòn dada previamente. 
 ![Figura de prueba](IMAGES/GIF1.gif)
 14. Observar los datos en en el display.
-15. ![Figura de prueba](IMAGES/IMA29.png)
-16. Modificar el valor de la constante
+![Figura de prueba](IMAGES/IMA29.png)
+15. Modificar el valor de la constante
 ![Figura de prueba](IMAGES/IMA28.png)
-
+16. Observar el cambio de los valores en el display respecto a la anterior simulación. 
 ![Figura de prueba](IMAGES/IMA30.png)
 ![Figura de prueba](IMAGES/IMA31.png)
 ![Figura de prueba](IMAGES/IMA32.png)
@@ -87,4 +87,6 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 ![Figura de prueba](IMAGES/IMA46.png)
 ![Figura de prueba](IMAGES/IMA47.png)
 ![Figura de prueba](IMAGES/IMA48.png)
+![Figura de prueba](IMAGES/GIF2.gif)
+![Figura de prueba](IMAGES/GIF3.gif)
 
