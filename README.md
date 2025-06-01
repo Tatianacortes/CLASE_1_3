@@ -12,24 +12,39 @@ En particular, el **QUANSER QUBE** tiene especificaciones físicas detalladas y 
 
 Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una librería particular proporcionada para ese propósito, lo que significa que se tendría que desarrollar una solución personalizada utilizando los propios medios y recursos disponibles. 
 
---
 ## PROGRAMACIÓN QUANSER QUBE 2
+1. Registro en el portal de Quanser
 ![Figura de prueba](IMAGES/IMA1.png)
+2. Selección de Simulink Users
 ![Figura de prueba](IMAGES/IMA2.png)
+3. Descargar Toolbox
 ![Figura de prueba](IMAGES/IMA3.png)
+4. Instalación Licencia de Quanser Interactive Labs
 ![Figura de prueba](IMAGES/IMA4.png)
 ![Figura de prueba](IMAGES/IMA5.png)
 ![Figura de prueba](IMAGES/IMA6.png)
+5. Digitar QLabs.setup para dar inicio a la instalación de Quanser Interactive Labs
 ![Figura de prueba](IMAGES/IMA7.png)
+6. Dar click en instalar
 ![Figura de prueba](IMAGES/IMA8.png)
+7. Loggearse con el usuario del registro del paso 1
 ![Figura de prueba](IMAGES/IMA9.png)
+8. En la interfaz de Quanser Interactive Labs, seleccionar Qube 2 - DC Motor
 ![Figura de prueba](IMAGES/IMA10.png)
+9. Seleccionar Servo Workspace
 ![Figura de prueba](IMAGES/IMA11.png)
+10. En este paso ya se logró el acceso al gemelo digital. 
 ![Figura de prueba](IMAGES/IMA12.png)
+**PARA LA PROGRAMACIÒN**
+1. Abrir una ventana de simulink desde la ventana principal de Matlab
 ![Figura de prueba](IMAGES/IMA13.png)
+2. Buscar en la libreria los componentes de QUARC Targets
 ![Figura de prueba](IMAGES/IMA14.png)
+3. Abrir la pestaña 'Data acquisition', luego 'generic', y finalmente 'configuration', y seleccionar HIL Initialize
 ![Figura de prueba](IMAGES/IMA15.png)
+4. Cambiar los parametros para realizar la conexión. 
 ![Figura de prueba](IMAGES/IMA16.png)
+5. Observar la banda led superior del cubo en color verde idicando la conexión exitosa. 
 ![Figura de prueba](IMAGES/IMA18.png)
 ![Figura de prueba](IMAGES/IMA19.png)
 ![Figura de prueba](IMAGES/IMA20.png)
