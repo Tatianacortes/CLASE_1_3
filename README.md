@@ -71,7 +71,7 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 ![Figura de prueba](IMAGES/IMA30.png)
 17. Observar el cambio de movimiento respecto a la velocidad en relaciòn con la anterior simulación.
 ![Figura de prueba](IMAGES/GIF2.gif)
-18. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Inmediate I/O' seleccionar 'HIL Read'
+18. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Inmediate I/O' seleccionar 'HIL Read'  
 ![Figura de prueba](IMAGES/IMA32.png)
 19. Cambiar los parametros de 'Analog channels', 'Encoder channels', 'Digital channels' y 'Other channels' y seleccionar 'Active during normal simulation'
 ![Figura de prueba](IMAGES/IMA33.png)
@@ -90,7 +90,7 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 26. Gráficas obtenidas de los osciloscopios del modulo HIL Read con la configuraciòn de la última simulación.
 ![Figura de prueba](IMAGES/IMA40.png)
 ![Figura de prueba](IMAGES/IMA41.png)
-27. Modulo Stall Monitor
+27. Modulo Stall Monitor  
 ![Figura de prueba](IMAGES/IMA42.png)
 28. Configuración de modulo.
 ![Figura de prueba](IMAGES/IMA43.png)
