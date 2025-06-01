@@ -35,16 +35,17 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 ![Figura de prueba](IMAGES/IMA11.png)
 10. En este paso ya se logró el acceso al gemelo digital. 
 ![Figura de prueba](IMAGES/IMA12.png)
+
 **PARA LA PROGRAMACIÒN**
 1. Abrir una ventana de simulink desde la ventana principal de Matlab
 ![Figura de prueba](IMAGES/IMA13.png)
 2. Buscar en la libreria los componentes de QUARC Targets
 ![Figura de prueba](IMAGES/IMA14.png)
-3. Abrir la pestaña 'Data acquisition', luego 'generic', y finalmente 'configuration', y seleccionar HIL Initialize
+3. Abrir la pestaña 'Data acquisition', luego 'generic', y finalmente 'configuration', y seleccionar HIL Initialize.
 ![Figura de prueba](IMAGES/IMA15.png)
-4. Cambiar los parametros para realizar la conexión. 
+5. Cambiar los parametros para realizar la conexión. 
 ![Figura de prueba](IMAGES/IMA16.png)
-5. Observar la banda led superior del cubo en color verde idicando la conexión exitosa. 
+6. Observar la banda led superior del cubo en color verde idicando la conexión exitosa. 
 ![Figura de prueba](IMAGES/IMA18.png)
 ![Figura de prueba](IMAGES/IMA19.png)
 ![Figura de prueba](IMAGES/IMA20.png)
