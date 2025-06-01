@@ -27,4 +27,4 @@
 ![Figura de prueba](IMAGES/IMA25.png)
 ![Figura de prueba](IMAGES/IMA26.png)
 ![Figura de prueba](IMAGES/IMA27.png)
-![Figura de prueba](IMAGES/GIF1.png)
+![Figura de prueba](IMAGES/GIF1.gif)
