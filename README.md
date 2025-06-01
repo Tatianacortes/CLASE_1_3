@@ -53,7 +53,7 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 ![Figura de prueba](IMAGES/IMA21.png)
 8. Configurar los parametros de la pestaña 'main' seleccionando 'Synchronize'
 ![Figura de prueba](IMAGES/IMA22.png)
-9. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Inmediate I/O' seleccionar 'HIL Write Analog'
+9. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Inmediate I/O' seleccionar 'HIL Write Analog'  
 ![Figura de prueba](IMAGES/IMA20.png)
 10. Seleccionar 'Active during normal simulation'
 ![Figura de prueba](IMAGES/IMA23.png)
