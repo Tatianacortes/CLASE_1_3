@@ -69,24 +69,39 @@ Sin embargo, si se requiere trabajar con un sistema embebido externo, no hay una
 ![Figura de prueba](IMAGES/IMA28.png)
 16. Observar el cambio de los valores en el display respecto a la anterior simulación. 
 ![Figura de prueba](IMAGES/IMA30.png)
-![Figura de prueba](IMAGES/IMA31.png)
+17. Observar el cambio de movimiento respecto a la velocidad en relaciòn con la anterior simulación.
+![Figura de prueba](IMAGES/GIF2.gif)
+18. Siguiendo la ruta 'QUARC Targets' > 'Data acquisition' > 'generic' > 'Inmediate I/O' seleccionar 'HIL Read'
 ![Figura de prueba](IMAGES/IMA32.png)
+19. Cambiar los parametros de 'Analog channels', 'Encoder channels', 'Digital channels' y 'Other channels' y seleccionar 'Active during normal simulation'
 ![Figura de prueba](IMAGES/IMA33.png)
+20. Parametros de 'Analog channels', corriente. 
 ![Figura de prueba](IMAGES/IMA34.png)
+21. Parametros de 'Encoder channels', posición y sentido de giro. 
 ![Figura de prueba](IMAGES/IMA35.png)
+22. Parametros de 'Digital channels', para este caso seleccionar Amplitud. 
 ![Figura de prueba](IMAGES/IMA36.png)
+23. Parametros de 'Other channels', tacometro, para este caso no se selecciona ninguno. 
 ![Figura de prueba](IMAGES/IMA37.png)
+24. Los parametros quedarias configurados asi.
 ![Figura de prueba](IMAGES/IMA38.png)
+25. Se agregan osciloscopios y displays para observar datos al modulo HIL Read. 
 ![Figura de prueba](IMAGES/IMA39.png)
+26. Gráficas obtenidas de los osciloscopios del modulo HIL Read con la configuraciòn de la última simulación.
 ![Figura de prueba](IMAGES/IMA40.png)
 ![Figura de prueba](IMAGES/IMA41.png)
+27. Modulo Stall Monitor
 ![Figura de prueba](IMAGES/IMA42.png)
+28. Configuración de modulo.
 ![Figura de prueba](IMAGES/IMA43.png)
-![Figura de prueba](IMAGES/IMA44.png)
+29. Diagrama de conexión añadiendo el modulo Stall Monitor. 
 ![Figura de prueba](IMAGES/IMA45.png)
+30. Agregar un manual switch y un pulse generation. 
 ![Figura de prueba](IMAGES/IMA46.png)
+31. Configuración del modulo Pulse Generation
 ![Figura de prueba](IMAGES/IMA47.png)
+32. Diagrama final
 ![Figura de prueba](IMAGES/IMA48.png)
-![Figura de prueba](IMAGES/GIF2.gif)
+33. Simulaciòn final. 
 ![Figura de prueba](IMAGES/GIF3.gif)
 
